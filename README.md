@@ -12,5 +12,3 @@ python make_predictions.py  #predict and generate a submission file. remember mo
 
 python plot_learning_curve.py ./dogVsCat.log ./learning_curve.png  #dogVsCat.log is the training log
 
-
-
